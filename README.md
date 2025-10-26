@@ -60,7 +60,7 @@ The `node` class represents a node in the parse tree. Each node contains:
 - `data`: The value associated with the node.
 - `children`: A list of child nodes, if the node has children (for non-leaf nodes).
 
-### `parseS`, `parseL`, `parseC` Functions
+## `parseS`, `parseL`, `parseC` Functions
 
 These functions implement the recursive descent parsing strategy for the Brainfuck-like grammar:
 
@@ -69,7 +69,7 @@ These functions implement the recursive descent parsing strategy for the Brainfu
 - `C`: Represents a command, which can be one of `>`, `<`, `+`, `-`, `.`, or `,`.
 
 
-### `interpret` Function
+## `interpret` Function
 
 The `interpret` function recursively interprets the parsed tree. It handles all Brainfuck commands such as `+`, `-`, `>`, `<`, `.`, and `,`. It uses a memory array (`data`) to simulate the tape of a Brainfuck interpreter.
 
