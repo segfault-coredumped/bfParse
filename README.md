@@ -53,7 +53,7 @@ Hello
 ```
 
 
-### `node` Class
+## `node` Class
 
 The `node` class represents a node in the parse tree. Each node contains:
 
