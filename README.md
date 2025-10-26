@@ -38,7 +38,7 @@ To run the program, simply execute the script:
 python bfinterpret.py
 ```
 
-```markdown
+
 ### Example Output
 
 ```bash
@@ -52,7 +52,7 @@ Program run:
 Hello
 ```
 
-```markdown
+
 ### `node` Class
 
 The `node` class represents a node in the parse tree. Each node contains:
@@ -85,7 +85,7 @@ The `main` function:
 - Removes any non-Brainfuck characters (e.g., comments or whitespace).
 - Parses the program using the `parse` function.
 - Outputs the source code, the parse tree, and the result of running the program.
-```
+
 
 ## License
 
