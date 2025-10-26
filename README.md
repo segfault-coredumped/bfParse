@@ -38,11 +38,6 @@ To run the program, simply execute the script:
 python bfinterpret.py
 ```
 
-
----
-
-### Part 4:
-
 ```markdown
 ### Example Output
 
@@ -56,11 +51,6 @@ S(LS(S(L(S(LS(S(C(>[S(C(+(S(LS(λ))]))(C(-)S(LS(λ))]))])))))
 Program run:
 Hello
 ```
-
-
----
-
-### Part 5:
 
 ```markdown
 ### `node` Class
