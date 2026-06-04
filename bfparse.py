@@ -1,7 +1,4 @@
-# Nick Janota
-# CSC 135
 # recursive decent parse tree
-
 
 # This file contains two support classes followed by parsing code.
 # scanner is a simple class that delivers tokens to the parser
@@ -56,8 +53,6 @@ def parse(input):
         raise Exception
     return root
 
-
-# --- DO NOT CHANGE ANY CODE ABOVE THIS LINE ---
 
 # Parser for
 # S → CS | LS | λ
