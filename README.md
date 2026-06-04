@@ -1,4 +1,4 @@
-# CSC 135: Recursive Descent Parse Tree
+# Recursive Descent Parse Tree
 
 ## Overview
 
